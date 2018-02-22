@@ -1,0 +1,50 @@
+body {
+	font-family: 'Lato', sans-serif;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+}
+
+#card {
+	font-size: 0.85em;
+	border: 1px solid;
+	border-radius: 5px;
+	box-shadow: 6px 4px 4px cadetblue;
+	padding: 6px;
+	background-color: black;
+	color: cadetblue;
+	display: flex;
+	flex-flow: column wrap;
+	align-items: center;
+}
+
+h2, img, .presentation {
+	border: 2px solid;
+	border-radius: 2px;
+}
+
+h2 {
+	margin: 0.75rem;
+	padding: 0.5rem 7.4rem;
+}
+
+img {
+	width: 300px;
+}
+
+.presentation {
+	width: 275px;
+	padding: 2px 12px;
+	margin: 12px 12px;
+	display: flex;
+	flex-flow: column wrap;
+}
+.feature {
+	list-style-type: none;
+	-webkit-padding-start: 0;
+	-moz-padding-start: 0;
+}
+span.labels {
+	font-weight: bold;
+}
+
