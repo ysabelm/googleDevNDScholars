@@ -105,7 +105,7 @@ ul {
 .nav a {
   text-decoration: none;
   color: #616161;
-  padding: 1.5rem;
+  padding: 1.5em;
 }
 
 .nav a:hover {
@@ -141,7 +141,6 @@ main {
  */
 
 .hero {
-  float: left;
   width: 100%;
   position: relative;
   background-image: url("../images/dog.jpg");
@@ -197,8 +196,8 @@ main {
 .top-news__item a {
   text-decoration: none;
   color: #666;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
 }
 
 .top-news__item a:hover,
@@ -337,8 +336,8 @@ main {
 .snippet__title a {
   text-decoration: none;
   color: #666;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
 }
 
 .snippet__title a:hover,
