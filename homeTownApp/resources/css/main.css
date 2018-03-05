@@ -261,8 +261,6 @@ main {
  */
 
 .weather {
-  float: right;
-  width: 320px;
   padding: 1em;
 }
 
