@@ -310,7 +310,7 @@ main {
 
 /*
  *
- * Weather
+ * Recent News
  *
  */
 
@@ -337,6 +337,8 @@ main {
 .snippet__title a {
   text-decoration: none;
   color: #666;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 .snippet__title a:hover,
